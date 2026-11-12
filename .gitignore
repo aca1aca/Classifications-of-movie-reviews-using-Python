@@ -1,0 +1,17 @@
+# Datasets (downloaded by scripts / from Kaggle)
+skipgram_trening/text8_dataset/
+IMDB Dataset.csv
+
+# Unzipped word vectors (>100 MB, GitHub limit); the repo contains vectors.zip instead
+vectors.txt
+
+# Generated outputs
+imdb_klasifikacija/istorija_model*.csv
+skipgram_vektori/poredjenja.txt
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
